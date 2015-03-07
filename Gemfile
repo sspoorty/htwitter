@@ -34,6 +34,8 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 
 gem 'simple_form'
 
+gem 'devise'
+
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
