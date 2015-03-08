@@ -36,6 +36,9 @@ gem 'simple_form'
 
 gem 'devise'
 
+# gem to upload files
+gem 'carrierwave'
+
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
