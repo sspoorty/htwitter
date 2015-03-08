@@ -41,6 +41,9 @@ gem 'carrierwave'
 
 gem "acts_as_follower"
 
+#
+gem 'twitter-text', '~> 1.10.0'
+
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 

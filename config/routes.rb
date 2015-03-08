@@ -13,6 +13,10 @@ resources :profiles
 
 resources :follows, only: :create
 
+resources :hashtags, only: :show
+
+#get 'hashtags/:hashtag_tag_id', to: 'hashtags#' 
+
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 
