@@ -39,6 +39,8 @@ gem 'devise'
 # gem to upload files
 gem 'carrierwave'
 
+gem "acts_as_follower"
+
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
